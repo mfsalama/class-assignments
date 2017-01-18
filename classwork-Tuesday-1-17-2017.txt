@@ -2,3 +2,10 @@ Marina Salama
 EEB-177
 
 
+.
+..
+badly named file.txt
+classwork-Tuesday-1-17-2017.txt
+.config
+.git
+README.txt

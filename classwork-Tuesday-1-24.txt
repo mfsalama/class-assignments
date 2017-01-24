@@ -1,0 +1,7 @@
+*Appending:
+eeb177-student@eeb177-VirtualBox:~/Desktop/eeb-177/CSB/unix/sandbox$ find ../../../../../Desktop/ -iname "*classwork*" >> ~/Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt
+
+../../../../../Desktop/eeb-177/class-assignments/classwork-Tuesday-1-24.txt
+../../../../../Desktop/eeb-177/class-assignments/classwork-Thursday-1-19-2017.txt
+../../../../../Desktop/eeb-177/class-assignments/classwork-Tuesday-1-17-2017.txt
+
